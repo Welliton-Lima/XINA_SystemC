@@ -2,10 +2,8 @@
 XINA - eXtensible Interconnect Network Architecture
 ----------------------------------------------------------------------------------------------
 PROJECT: XINA_SystemC
-MODULE : XINA - General module used by all others components
-FILE   : XINA.h
 ---------------------------------------------------------------------------------------------
-DESCRIPTION: Xina Network Topology Module
+DESCRIPTION: Interconnect Network Architecture
 ---------------------------------------------------------------------------------------------
 AUTHORS: Laboratory of Embedded and Distributed Systems (LEDS - UNIVALI)
 CONTACT: Prof. Douglas Rossi de Melo (drm@univali.br)
