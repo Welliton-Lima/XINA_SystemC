@@ -7,7 +7,8 @@ DESCRIPTION: Interconnect Network Architecture
 ---------------------------------------------------------------------------------------------
 AUTHORS: Laboratory of Embedded and Distributed Systems (LEDS - UNIVALI)
 CONTACT: Prof. Douglas Rossi de Melo (drm@univali.br)
--------------------------------- Reviews ----------------------------------------------------
+---------------------------------------------------------------------------------------------
+Reviews
 | Date       - Version - Author                      | Description
 ---------------------------------------------------------------------------------------------
 | 20/01/2023 - 1.0     - Welliton da Silva de Lima   | Initial Modeling in SystemC
